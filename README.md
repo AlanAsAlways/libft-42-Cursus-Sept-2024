@@ -17,7 +17,7 @@
    
 3. **Más allá de teclear**: Es fundamental que sepas **qué hace tu código y cómo lo hace**. No te centres solo en escribir, sino en **comprender**.
    
-4. **PDF de apoyo**: En este repositorio, incluiré un PDF en el que explicaré, con mis palabras, el propósito y funcionamiento de cada parte del proyecto.
+4. **PDF de apoyo**: En este repositorio, incluiré un PDF en el que explicaré, con mis palabras, cómo hacer un Makefile y todos los demás archivos de tu librería.
 
 ---
 
@@ -67,7 +67,7 @@ Welcome to my **Libft** repository! Here you’ll find my progress on one of the
    
 3. **More than just typing**: It’s crucial that you understand **what your code does and how it works**. Comprehension is key, not just the act of coding.
    
-4. **Supportive PDF**: In this repository, I’ll include a PDF where I explain, in my own words, what each part of the project does and how it works.
+4. **Supportive PDF**: In this repository, I’ll include a PDF where I explain, in my own words, how to create every single type of file you will need in this project.
 
 ---
 
