@@ -31,7 +31,7 @@ Este proyecto es también una gran oportunidad para personalizar tu entorno de d
 
 💬 **Apoyo entre compañeros**:
 
-Recuerda, ahora formas parte de una comunidad extensa en 42. Aprovecha tu estatus de estudiante para pedir ayuda a tus compañeros más avanzados. Siempre hay alguien dispuesto a echar una mano. Yo también te apoyaré con el PDF.
+Recuerda, ahora formas parte de una comunidad extensa en 42. Aprovecha tu estatus de estudiante para pedir ayuda a tus compañeros más avanzados. Siempre hay alguien dispuesto a echar una mano.
 
 ---
 
@@ -79,7 +79,7 @@ This project is also a perfect opportunity to customize your development environ
 
 💬 **Support from peers**:
 
-Remember, you’re now part of a large community at 42. Take advantage of your student status to ask for help from more advanced peers. There’s always someone willing to help. I’ll also be here to support you with the PDF.
+Remember, you’re now part of a large community at 42. Take advantage of your student status to ask for help from more advanced peers. There’s always someone willing to help.
 
 ---
 
